@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Chennai Darshan</string>
+
+        <string name="history">HISTORY</string>
+        <string name="malls">MALLS</string>
+        <string name="Beaches">BEACHES</string>
+        <string name="north_indian_food">NORTH INDIAN FOOD</string>
+
+<!--    malls in chennai-->
+    <string name="marina_mall">THE MARINA MALL</string>
+    <string name="marina_mall_address">Old Mahabalipuram Rd, Egatoor</string>
+    <string name="vivira_mall_address">" 33, Old Mahabalipuram Rd, Navalur"</string>
+    <string name="vivira_mall">VIVIRA MALL</string>
+    <string name="express_avenue_mall">EXPRESS AVENUE MALL</string>
+    <string name="express_avenue_mall_address">" 17, Pattullos Rd, Express Estate, Thousand Lights, Chennai"</string>
+    <string name="pheonix">PHEONIX MARKETCITY</string>
+    <string name="pheonix_marketcity_address">142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai</string>
+    <string name="heritage">" PVR HERITAGE MAll"</string>
+    <string name="heritage_address">" PVR Heritage Mall"</string>
+    <string name="mayajaal">MAYAJAAL MULTIPLEX</string>
+    <string name="mayajaal_address">" 34/1 East Coast Road Kanathur, Chennai"</string>
+    <string name="grand_square_address">" 137, Velachery to Tambaram Main Road, Velacheri, Chennai"</string>
+    <string name="grand_square">GRAND SQUARE MALL</string>
+    <string name="forum">FORUM VIJAYA MALL</string>
+    <string name="spemcer_mall">SPENCER MALL</string>
+    <string name="vr_mall">VR MALL</string>
+    <string name="forum_address">" 183, NSK Salai Arcot Road, Vadapalani, Chennai"</string>
+    <string name="spencer_address">No 769, Anna Salai, Mount Road, Chenna</string>
+    <string name="vr_mall_address">Jawaharlal Nehru Road, Anna Nagar, Chennai</string>
+
+
+</resources>
